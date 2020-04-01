@@ -16,3 +16,4 @@ Aquí iremos poniendo los nombres de todos los colaboradores:
 - Daniel Garijo (Information Science Institute, University of Southern California, Estados Unidos)
 - Francisco Serradilla (Departamento de Inteligencia Artificial, UPM, España)
 - David Pérez Fernández (Ministerio de Asuntos Económicos y Transformación Digital, España)
+- Juan José Martínez Rodríguez (Ingeniero en Inteligencia Artificial, NLP, Londres, Reino Unido)
